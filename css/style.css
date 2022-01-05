@@ -81,4 +81,6 @@ body {
 .txt{
     margin-top: 1rem;
     font-size: 1.5rem;
+    visibility: hidden;
+    position: absolute;
 }
