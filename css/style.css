@@ -144,12 +144,16 @@ form{
     gap: 2rem;
 }
 .form-dets{
-    background-color: aqua;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 2rem;
     width: 75%;
+}
+#name, #email{
+    padding: 1rem;
+    font-size: 1.4rem;
+    width: 50%;
 }
 textarea{
     width: 70%;
