@@ -84,3 +84,29 @@ body {
     visibility: hidden;
     position: absolute;
 }
+.portfolio h1{
+    font-weight: 900;
+    font-size: 3rem;
+    padding: 1rem;
+}
+.portfolio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sample{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+.one, .two{
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
