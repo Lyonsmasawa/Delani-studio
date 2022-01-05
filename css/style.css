@@ -69,3 +69,16 @@ body {
     font-weight: 900;
     font-size: 3rem;
 }
+.what_we_do{
+    text-align: center;
+    padding: 2rem;
+}
+.what_we_do h1{
+    font-weight: 900;
+    font-size: 3rem;
+    padding: 2rem;
+}
+.txt{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
