@@ -181,3 +181,7 @@ textarea {
   font-size: 2rem;
   outline: 1px solid rgba(255, 255, 255, 0.459);
 }
+.col-md-3 h4{
+    font-size: 2rem;
+    transform: translateY(0%);
+}
