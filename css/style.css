@@ -37,6 +37,7 @@ body {
 }
 .welcome h1{
     font-size: 5rem;
+
 }
 .welcome p{
     font-size: 1.4rem;
@@ -47,4 +48,19 @@ body {
 }
 .contents{
     margin-top: 16%;
+}
+.about-us{
+    padding: 2rem;
+    line-height: 3rem;
+    font-size: 1.5rem;
+}
+.about-us h1{
+    font-weight: 900;
+}
+.services{
+    background-color: aliceblue;
+    padding: 2rem;
+}
+.services h1{
+    font-weight: 900;
 }
