@@ -50,17 +50,22 @@ body {
     margin-top: 16%;
 }
 .about-us{
-    padding: 2rem;
+    padding: 6rem;
     line-height: 3rem;
     font-size: 1.5rem;
 }
 .about-us h1{
     font-weight: 900;
+    font-size: 3rem;
 }
 .services{
-    background-color: aliceblue;
-    padding: 2rem;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.478), rgba(0, 0, 0, 0.485)), url("/img/middle.jpg");
+    background-size: cover;
+    padding: 5rem;
+    font-size: 1.5rem;
+    color: white;
 }
 .services h1{
     font-weight: 900;
+    font-size: 3rem;
 }
