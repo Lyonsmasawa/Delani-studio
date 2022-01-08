@@ -78,6 +78,7 @@ body {
 .what_we_do {
   text-align: center;
   padding: 2rem;
+  cursor: pointer;
 }
 .what_we_do h1{
   font-weight: 900;
