@@ -7,5 +7,8 @@ $(document).ready(function () {
         $("#develop-img").toggle();
         $(".develop").toggle();
     });
- 
+    $("#product-cont").click(function () {
+        $("#product-img").toggle();
+        $(".product").toggle();
+    });
 });
