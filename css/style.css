@@ -202,8 +202,12 @@ textarea {
     color: black;
     border: 3px solid white;
     animation: opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+.col-md-3 h4{
 }
 .col-md-3{
+  padding: 1rem;
   display: flex;
   background-color: aqua;
   align-items: center;
