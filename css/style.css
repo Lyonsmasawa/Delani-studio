@@ -219,5 +219,5 @@ textarea {
   justify-content: center;
 }
 .col-md-3:hover{
-  filter: blur(90%);
+  filter: blur(40%);
 }
