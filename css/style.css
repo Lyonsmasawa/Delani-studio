@@ -190,7 +190,7 @@ textarea {
     font-weight: 900;
     display: non;
     position: absolute;
-    width: 91%;
+    width: 96%;
     height: 98%;
     display: flex;
     align-items: center;
@@ -201,15 +201,15 @@ textarea {
     padding: 2rem;
     color: black;
     border: 3px solid white;
-    animation: opacity 0.3s ease-in-out;
     opacity: 0;
 }
-.col-md-3 h4{
+.col-md-3 h4:hover{
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
 }
 .col-md-3{
   padding: 1rem;
   display: flex;
-  background-color: aqua;
   align-items: center;
   justify-content: center;
 }
