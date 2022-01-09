@@ -221,3 +221,15 @@ textarea {
 .col-md-3:hover{
   filter: blur(35%);
 }
+#sub{
+  display: flex;
+  text-align: center;
+  padding: .5rem 3rem;
+  border-radius: 12px;
+  font-size: 1.4rem;
+  color: rgba(255, 255, 255, 0.705);
+  outline: 1px solid rgba(255, 255, 255, 0.459);
+  background-color: rgba(255, 255, 255, 0.062);
+  align-items: center;
+  justify-content: center;
+}
