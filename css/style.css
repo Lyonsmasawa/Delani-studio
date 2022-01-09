@@ -197,9 +197,9 @@ textarea {
     justify-content: center;
     text-transform: capitalize;
     top: 1%;
-    background-color: rgba(0, 0, 0, 0.377);
+    background-color: rgba(255, 255, 255, 0.39);
     padding: 2rem;
-    color: white;
+    color: black;
     border: 3px solid white;
     animation: opacity 0.3s ease-in-out;
 }
