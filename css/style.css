@@ -195,6 +195,7 @@ textarea {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-transform: capitalize;
     top: 1%;
     background-color: rgba(0, 0, 0, 0.377);
     padding: 2rem;
