@@ -29,7 +29,7 @@ body {
   width: 100%;
 }
 .welcome {
-  background-image: url("/img/first.jpg");
+  background-image: url("../img/first.jpg");
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -65,7 +65,7 @@ body {
       rgba(0, 0, 0, 0.478),
       rgba(0, 0, 0, 0.485)
     ),
-    url("/img/middle.jpg");
+    url("../img/middle.jpg");
   background-size: cover;
   padding: 5rem;
   font-size: 1.5rem;
@@ -126,7 +126,7 @@ body {
       rgba(0, 0, 0, 0.478),
       rgba(0, 0, 0, 0.485)
     ),
-    url("/img/last.jpg");
+    url("../img/last.jpg");
   background-size: cover;
   height: 70vh;
   color: white;
