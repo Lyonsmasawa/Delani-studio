@@ -22,6 +22,17 @@
  //JS functions
  function alertUser() {
      let name = document.getElementById("name").value.toUpperCase();
+     let userInput = document.getElementById("txtarea").value;
      let message = `, we have received your message. Thank You for contacting us.`;
-     alert(`Hello ${name} ${message}`);
+     if(userInput !== ""){
+        if(name !== ""){
+            alert(`Hello ${name} ${message}`);
+         }else{
+             name = "ANONYMOUS";
+             alert(`Hello ${name} ${message}`);
+         }
+     }else{
+         return "please enter your email address"
+     }
+     
  }
