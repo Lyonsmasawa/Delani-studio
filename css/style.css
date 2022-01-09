@@ -186,6 +186,25 @@ textarea {
   outline: 1px solid rgba(255, 255, 255, 0.459);
 }
 .col-md-3 h4{
-    font-size: 2rem;
-    display: none;
+    font-size: 3rem;
+    font-weight: 900;
+    display: non;
+    position: absolute;
+    width: 91%;
+    height: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 1%;
+    background-color: rgba(0, 0, 0, 0.377);
+    padding: 2rem;
+    color: white;
+    border: 3px solid white;
+    animation: opacity 0.3s ease-in-out;
+}
+.col-md-3{
+  display: flex;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
 }
