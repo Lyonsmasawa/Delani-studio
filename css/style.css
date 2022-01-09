@@ -143,8 +143,10 @@ footer {
   justify-content: center;
 }
 .footer_icons {
+  gap: 1rem;
+  flex-wrap: wrap;
   padding: 1.5rem;
-  width: 50%;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-around;
